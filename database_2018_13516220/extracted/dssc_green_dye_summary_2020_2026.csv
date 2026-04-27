@@ -1,0 +1,2 @@
+dye_raw,eco_class,valid_record_count,avg_pce_percent,max_pce_percent,avg_jsc_raw,avg_voc_raw,avg_ff_raw,example_name,example_smiles,common_semiconductors,common_redox_couples,common_substrates,sources,screening_reasons,example_dois,example_titles
+W2,metal_free_candidate_uncertain,3,5.1467,5.56,12.1033,599.6667,70.8667,,,,,,elsevier,no_excluded_metal_keyword_detected,10.1016/j.molstruc.2020.127694,Enhanced performance of dye-sensitized solar cells based on a dual anchored diphenylpyranylidene dye and N719 co-sensitization
