@@ -1,0 +1,4 @@
+1. Engery = HOMO < E_electrolyte (I-/I_3-) , & LUMO > TiO_2 band gap, narrow homo-lumo
+2. lighth absoption = visible to near infrared spectrum , high molar exitacion coef
+3. molecule structure = the dye must have an effective anchoring group with tio2 surfface., 
+4. flat planarity molecule  ,

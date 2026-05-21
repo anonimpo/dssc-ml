@@ -1,0 +1,3 @@
+Donor_Name,Pi_Name,Acceptor_Name,Donor_SMILES,Pi_SMILES,Acceptor_SMILES,SMILES,Source_Class,Anchoring_Group,HOMO,LUMO,Gap,Total_Energy,Dipole_Moment,xTB_Status
+Coumarin,Thiophene,Cyanoacrylic_acid,O=C1Oc2ccc([At])cc2C=C1,[I]c1ccsc1[Br],[Cl]C=C(C#N)C(=O)O,N#CC(=Cc1sccc1-c1ccc2oc(=O)ccc2c1)C(=O)O,Natural-derived,carboxylic_acid,-11.1841,-8.9452,2.238841789356,-63.355254890059,9.929,Success
+Coumarin,Thiophene,Acrylic_acid,O=C1Oc2ccc([At])cc2C=C1,[I]c1ccsc1[Br],[Cl]C=CC(=O)O,O=C(O)C=Cc1sccc1-c1ccc2oc(=O)ccc2c1,Natural-derived,,-10.8747,-8.1587,2.715969242442,-58.838447866026,4.726,Success
