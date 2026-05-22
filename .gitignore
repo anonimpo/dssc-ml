@@ -10,20 +10,17 @@ env/
 
 # Local secrets
 .env
-.env.*
+.env*
 *.key
 *.token
 *.secret
 secrets.*
 
-# Large/raw source data that should not be committed
-*.pdf
-*.zip
 database_2018_13516220/dsc_json/
 database_2018_13516220/dsc_mongodb/
 database_2018_13516220/doaj_2020_2026/scraped/raw/
 
-# Local/editor files
-.DS_Store
 *~
 .codex
+
+tmp/
