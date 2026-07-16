@@ -1,0 +1,9 @@
+"Thiophene": "[I]c1ccsc1[Br]",
+"Benzene": "[I]c1ccc([Br])cc1",
+"Furan": "[I]c1ccoc1[Br]",
+"Thienothiophene": "[I]c1cc2c(s1)scc2[Br]",
+"Ethyne": "[I]C#C[Br]",
+"Ethene": "[I]/C=C/[Br]",
+"Benzothiadiazole": "[I]c1ccc2nsnc2c1[Br]",
+"Bithiophene": "[I]c1ccsc1-c2cc([Br])cs2",
+"Pyrrole_N-methyl": "[I]c1ccn(C)c1[Br]"

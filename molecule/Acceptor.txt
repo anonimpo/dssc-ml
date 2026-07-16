@@ -1,0 +1,6 @@
+"Cyanoacrylic_acid": "[Cl]C=C(C#N)C(=O)O",
+"Acrylic_acid": "[Cl]C=CC(=O)O",
+"Benzoic_acid": "[Cl]c1ccc(C(=O)O)cc1",
+"Rhodanine-3-acetic_acid": "O=C1S/C(=C\\[Cl])/C(=O)N1CC(=O)O",
+"Phosphonic_acid": "[Cl]C=CP(=O)(O)O",
+"Barbituric_acid": "O=C1NC(=O)NC(=O)/C1=C/[Cl]"
